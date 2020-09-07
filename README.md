@@ -34,4 +34,3 @@ Hilltopさん作のQuoridorn Mark2およびQuoridorn-serverをmonorepo化する�
 - ~~所々画面レイアウトが崩れる。~~ -> 設定の問題
 - ~~画像の取得に失敗する。~~ -> 設定の問題
 - minioを立ち上げたら `quoridorn` バケットを作るようにしたい。
-
